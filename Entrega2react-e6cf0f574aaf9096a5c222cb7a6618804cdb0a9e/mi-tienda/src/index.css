@@ -1,0 +1,8 @@
+#root {
+  width: 100%;
+  max-width: 1280px; /* opcional: para que no se estire demasiado */
+  margin: 0 auto;
+  padding: 2rem;
+  box-sizing: border-box;
+  text-align: center;
+}
